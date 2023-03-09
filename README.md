@@ -29,9 +29,9 @@
   <tr>
     <td>80%</td>
     <td>80%</td>
-    <td>60%</td>
-    <td>30%</td>
-    <td>30%</td>
+    <td>80%</td>
+    <td>40%</td>
+    <td>40%</td>
   </tr>
 </table>
 

@@ -1,5 +1,8 @@
 ## Olá, eu sou o Marlus Abbade, criadora de conteúdo de programação e tecnologia!
 
+<img width-100% scr="http://capsule-render.vercel.app/api?
+type=waving&color=00fbf&height=180&section=header&text=***&fontSizw=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 <h4 align="center">
 
 <h2>Programação</h2>

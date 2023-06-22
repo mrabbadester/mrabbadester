@@ -57,4 +57,4 @@
 <h2>Estatísticas do GitHub</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrabbadester&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbbadester&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)

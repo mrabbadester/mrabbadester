@@ -49,12 +49,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mrabbadester2/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlus-abbade-pcd-393089106/)
 [![youtube](https://img.shields.io/badge/youtube-%23E23237.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/marlus-abbade-pcd-393089106/](https://www.youtube.com/channel/UCTeGV4RO8aeEG4kcxgorXvw))
-
+<img align="right" alt="Mila-pic" height="100" style="border-radius:50px;" src="https://tgram.ru/wiki/stickers/img/BabyYoda/gif/5.gif">
 </h4>
 
 <h2>Estatísticas do GitHub</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrabbadester&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrabbadester&layout=compact&langs_count=7&theme=radical)
-<img align="right" alt="Mila-pic" height="100" style="border-radius:50px;" src="https://tgram.ru/wiki/stickers/img/BabyYoda/gif/5.gif">
+
  

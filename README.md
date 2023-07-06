@@ -56,11 +56,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrabbadester&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrabbadester&layout=compact&langs_count=7&theme=radical)
-
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Mila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Mila-pic" height="150" style="border-radius:50px;" src="https://tgram.ru/wiki/stickers/img/BabyYoda/gif/5.gif">
+<img align="right" alt="Mila-pic" height="150" style="border-radius:50px;" src="https://tgram.ru/wiki/stickers/img/BabyYoda/gif/5.gif">
  

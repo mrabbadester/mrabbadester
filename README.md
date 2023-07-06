@@ -56,5 +56,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrabbadester&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrabbadester&layout=compact&langs_count=7&theme=radical)
-<img align="right" alt="Mila-pic" height="150" style="border-radius:50px;" src="https://tgram.ru/wiki/stickers/img/BabyYoda/gif/5.gif">
+<img align="right" alt="Mila-pic" height="150" style="border-radius:25px;" src="https://tgram.ru/wiki/stickers/img/BabyYoda/gif/5.gif">
  

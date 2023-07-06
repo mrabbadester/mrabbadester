@@ -1,7 +1,5 @@
 ## Olá, eu sou o Marlus Abbade, criadora de conteúdo de programação e tecnologia!
 
-
-
 <h4 align="center">
 
 <h2>Programação</h2>

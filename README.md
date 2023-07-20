@@ -56,5 +56,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrabbadester&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrabbadester&layout=compact&langs_count=7&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrabbadester&hide=Html&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrabbadester&theme=nord_dark)
 
  

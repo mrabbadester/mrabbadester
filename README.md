@@ -2,7 +2,7 @@
 
 <h4 align="center">
 
-<p align="center> <img align="center" src="https://profile-counter.glitch.me/mrabbadester/" /></p>
+<p align="center> <img align="center" src="https://profile-counter.glitch.me/mrabbadester/count.svg" /></p>
 
 <h2>Programação</h2>
 

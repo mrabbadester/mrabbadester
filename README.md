@@ -2,6 +2,8 @@
 
 <h4 align="center">
 
+<p align="center> <img align="center" src="https://profile-counter.glitch.me/mrabbadester/" /></p>
+
 <h2>Programação</h2>
 
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
@@ -56,6 +58,7 @@
 <h2>Estatísticas do GitHub</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrabbadester&show_icons=true&theme=radical)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrabbadester&layout=compact&langs_count=7&theme=radical)
 ![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrabbadester&hide=Html&theme=nord_dark)
 ![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrabbadester&theme=nord_dark)

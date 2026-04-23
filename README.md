@@ -20,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![mysql](https://img.shields.io/badge/sql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![github](https://img.shields.io/badge/github-%231572B6.svg?style=for-the-badge&logo=github&logoColor=white)
+![codex](https://img.shields.io/badge/codex-%231572B6.svg?style=for-the-badge&logo=codex&logoColor=white)
 
   <h2>Conhecimento</h2> 
   

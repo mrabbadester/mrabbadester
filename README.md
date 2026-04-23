@@ -48,7 +48,7 @@
 
 <h2>Rede social</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mrabbadester2/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mrabbadester/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlus-abbade-pcd-393089106/)
 [![youtube](https://img.shields.io/badge/youtube-%23E23237.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/marlus-abbade-pcd-393089106/](https://www.youtube.com/channel/UCTeGV4RO8aeEG4kcxgorXvw))
 <img align="right" alt="Mila-pic" height="100" style="border-radius:50px;" src="https://tgram.ru/wiki/stickers/img/BabyYoda/gif/5.gif">
